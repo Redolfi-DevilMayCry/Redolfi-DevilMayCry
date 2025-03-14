@@ -26,3 +26,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Redolfi-DevilMayCry&icon=0&color=6)](https://visitcount.itsvg.in)
+
+
+
+![Snake animation](https://github.com/Redolfi-DevilMayCry/Redolfi-DevilMayCry/blob/output/github-contribution-grid-snake.svg)
