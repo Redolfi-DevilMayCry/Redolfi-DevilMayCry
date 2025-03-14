@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapercave.com/wp/wp6177681.jpg)]
+![MasterHead](https://wallpapercave.com/wp/wp6177681.jpg)
 
 
 
