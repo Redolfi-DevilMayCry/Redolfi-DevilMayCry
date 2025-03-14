@@ -1,6 +1,7 @@
 ![MasterHead](https://wallpapercave.com/wp/wp6177681.jpg)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Redolfi-DevilMayCry)](https://git.io/streak-stats)
 
 
 
