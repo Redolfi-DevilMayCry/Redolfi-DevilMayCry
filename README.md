@@ -10,7 +10,7 @@
 </div>
 
 
-![Snake animation](https://github.com/Redolfi-DevilMayCry/Redolfi-DevilMayCry/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
