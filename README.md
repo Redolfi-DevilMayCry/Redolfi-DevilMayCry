@@ -1,8 +1,7 @@
 ![MasterHead](https://wallpapercave.com/wp/wp6177681.jpg)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Redolfi-DevilMayCry&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Redolfi-DevilMayCry&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Redolfi-DevilMayCry&theme=youtube-dark" alt="GitHub Streak" /></a>
 
 
 
