@@ -2,6 +2,7 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Redolfi-DevilMayCry&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Redolfi-DevilMayCry&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 
 
 
